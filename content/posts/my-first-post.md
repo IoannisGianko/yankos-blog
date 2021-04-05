@@ -127,8 +127,7 @@ Also, at the end enable your site’s security by having HTTPs certificates on f
  
 From now on, any changes that you wish to make, you’ll need to make them from GitHub.
 
-References: </br>
-References: </br>
+References:
 <ul>
   <li>https://chocolatey.org/</li>
   <li>https://github.com/</li>
