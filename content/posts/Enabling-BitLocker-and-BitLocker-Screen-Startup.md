@@ -88,6 +88,6 @@ Double click on the BitLocker icon.
 ![encrypting1](/posts/Enabling-BitLocker-and-BitLocker-Screen-Startup/encrypting.png "Encrypting...")
 
 **References:** </br>
-* https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
-* https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview
++ https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
++ https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview
 
