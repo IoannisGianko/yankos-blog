@@ -14,9 +14,11 @@ This is a step by step guide for those who want to enable bitlocker on their mai
 For this you'll need to have a [TPM](https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview "docs.microsoft.com - Trusted Platform Module Technology Overview") version of 1.2 or later.
 
 Applies to:
-* Windows 10
-* Windows Server 2016
-* Windows Server 2019
+<ul>
+  <li>Windows 10</li>
+  <li>Windows Server 2016</li>
+  <li>Windows Server 2019</li>
+</ul>
 
 ### Implementation
 
@@ -87,7 +89,9 @@ Double click on the BitLocker icon.
 
 ![encrypting1](/posts/Enabling-BitLocker-and-BitLocker-Screen-Startup/encrypting.png "Encrypting...")
 
-**References:** </br>
-+ https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
-+ https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview
+**References:**
+<ul>
+  <li>https://docs.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview</li>
+  <li>https://docs.microsoft.com/en-us/windows/security/information-protection/tpm/trusted-platform-module-overview</li>
+</ul>
 
