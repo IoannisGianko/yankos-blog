@@ -129,14 +129,17 @@ From now on, any changes that you wish to make, you’ll need to make them from 
 
 References: </br>
 References: </br>
-* https://chocolatey.org/
-* https://github.com/
-* https://www.netlify.com/
-* https://themes.gohugo.io/hugo-theme-terminal/
-* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* https://www.markdownguide.org/
-* https://www.markdownguide.org/cheat-sheet/
-* https://www.youtube.com/watch?v=c7vpcqA6SEQ
-* https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/
-* https://github.com/IoannisGianko?tab=repositories
-* https://docs.netlify.com/domains-https/netlify-dns/dns-records/
+<ul>
+  <li>https://chocolatey.org/</li>
+  <li>https://github.com/</li>
+  <li>https://www.netlify.com/</li>
+  <li>https://www.netlify.com/</li>
+  <li>https://themes.gohugo.io/hugo-theme-terminal/</li>
+  <li>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</li>
+  <li>https://www.markdownguide.org/</li>
+  <li>https://www.markdownguide.org/cheat-sheet/</li>
+  <li>https://www.youtube.com/watch?v=c7vpcqA6SEQ</li>
+  <li>https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/</li>
+  <li>https://github.com/IoannisGianko?tab=repositories</li>
+  <li>https://docs.netlify.com/domains-https/netlify-dns/dns-records/</li>
+</ul>
