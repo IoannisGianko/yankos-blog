@@ -128,10 +128,15 @@ Also, at the end enable your site’s security by having HTTPs certificates on f
 From now on, any changes that you wish to make, you’ll need to make them from GitHub.
 
 References: </br>
+References: </br>
 https://chocolatey.org/ </br>
 https://github.com/ </br>
 https://www.netlify.com/ </br>
 https://themes.gohugo.io/hugo-theme-terminal/ </br>
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet </br>
 https://www.markdownguide.org/ </br>
-https://www.markdownguide.org/cheat-sheet/
+https://www.markdownguide.org/cheat-sheet/ </br>
+https://www.youtube.com/watch?v=c7vpcqA6SEQ </br>
+https://www.freecodecamp.org/news/your-first-hugo-blog-a-practical-guide/ </br>
+https://github.com/IoannisGianko?tab=repositories </br>
+https://docs.netlify.com/domains-https/netlify-dns/dns-records/ </br>
