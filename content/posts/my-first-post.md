@@ -132,7 +132,6 @@ References:
   <li>https://chocolatey.org/</li>
   <li>https://github.com/</li>
   <li>https://www.netlify.com/</li>
-  <li>https://www.netlify.com/</li>
   <li>https://themes.gohugo.io/hugo-theme-terminal/</li>
   <li>https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet</li>
   <li>https://www.markdownguide.org/</li>
