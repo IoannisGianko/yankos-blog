@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "yankos.co.uk",
+  "Id": "7891cb42-7fd5-4916-8096-aafe66ee1bf9"
+}
